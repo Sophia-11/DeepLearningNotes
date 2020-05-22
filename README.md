@@ -1,14 +1,11 @@
-# DeapLearningNotes(现在图片怎么也上传不上去，所以只展示目录)
+# DeapLearningNotes
 （其他笔记图片可见[《机器学习手推笔记》](https://github.com/Sophia-11/Machine-Learning-Notes/)）
 《深度学习》手推笔记~持续更新中
 
-`<center class="half">
-`    <img src="./ch/0000.jpg" width="200"/><img src="./ch/0001.jpg" width="200"/><img src="./ch/0002.jpg" width="200"/>
-`</center>
-
-| 默认风格 | 预览 | 多图裁剪 |
-|:-----------:|:--------:|:---------:|
-|![](image/./ch/0000.jpg) | <img src="./ch/0001.jpg"/> | ![](./ch/0002.jpg)|  
+### 数学符号
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![](./ch/0000.jpg)| ![](./ch/0001.jpg)| ![](./ch/0002.jpg)|  ![](./ch/0003.jpg)| 
 
 ## by 【计算机视觉联盟】 王博（Kings）、Sophia
 
@@ -16,7 +13,7 @@
 
 ## 手推笔记已经持续更新，可以下载打印
 
-*Last updated: 2019/03/03*
+*Last updated: 2019/05/22*
 
 ## 【计算机视觉联盟】回复【深度学习手推笔记】即可获得百度云pdf下载链接
 
