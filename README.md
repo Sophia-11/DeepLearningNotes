@@ -2,6 +2,10 @@
 （其他笔记图片可见[《机器学习手推笔记》](https://github.com/Sophia-11/Machine-Learning-Notes/)）
 《深度学习》手推笔记~持续更新中
 
+<center class="half">
+    <img src="./ch/0000.jpg" width="200"/><img src="./ch/0001.jpg" width="200"/><img src="./ch/0002.jpg" width="200"/>
+</center>
+
 ## by 【计算机视觉联盟】 王博（Kings）、Sophia
 
 ## 作者其他手推笔记 [《机器学习手推笔记》](https://github.com/Sophia-11/Machine-Learning-Notes/)
